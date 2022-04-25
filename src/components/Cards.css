@@ -1,0 +1,28 @@
+
+
+.cards {
+  width: 85%;
+  min-height: 75vh;
+  max-height: 75vh;
+}
+
+.botoncito {
+  display: flex;  
+  justify-content: right;
+  margin-top: 60px;
+  margin-right: 15px;
+  position: relative;
+}
+
+
+.cards__div{
+  margin: auto;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 85%;
+  min-height: 75vh;
+  max-height: 75vh;
+  border-radius: 20px;  
+}
