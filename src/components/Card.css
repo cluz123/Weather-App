@@ -7,14 +7,14 @@
   position: absolute;
   width: 18rem;
   height: 180px;
-  background-color: rgb(243, 243, 243);
-  opacity: 40%;
+  background-color: #3a4850;
+  opacity: 65%;
   backdrop-filter: blur(15px);
   border-radius: 5px;
 }
 
 .cardContainer {
-  margin: 20px;
+  margin: 0px 20px 0px 20px;
   margin-top: 0;
   width: 18rem;
 }
@@ -33,4 +33,14 @@
 .card-body {
   margin-top: 0px !important;
   padding-top: 0px !important;
+}
+
+h5 {
+  color: white;
+  font-family: Montserrat;
+  font-size: large;
+}
+
+p {
+  color: white;
 }

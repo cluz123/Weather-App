@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import Nav from './components/Nav';
 import Cards from './components/Cards';
-import tierra from './img/tierra2.png';
+import tierra from './img/clima.jpg';
 
 export default function App() {
 

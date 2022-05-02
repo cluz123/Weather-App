@@ -23,6 +23,12 @@ button {
     padding-right: 15px;
     color: thistle;
     font-size: 20px;
+    transition: 0.5s;
+}
+
+button:hover {
+    transition: 0.5s;
+    color: rgb(255, 255, 255);
 }
 
 input:focus {
